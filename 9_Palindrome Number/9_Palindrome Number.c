@@ -42,8 +42,8 @@ void main()
     output = isPalindrome(input);
     printf("input value is %d\n", input);
     if (output)
-        printf("output value is true\n");
+        printf("the value is Palindrome\n");
     else
-        printf("output value is flase\n");
+        printf("the value is not Palindrome\n");
     
 }
